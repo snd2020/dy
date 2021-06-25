@@ -1,0 +1,145 @@
+2021-06-25 21:29:50.183279
+getDriver~
+
+----------------------------
+2021-06-25 21:24:17.165192
+getDriver~
+
+----------------------------
+2021-06-25 21:23:02.358333
+driver执行滚动到底部失败：Message: javascript error: missing ) after argument list
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-25 21:23:00.030984
+driver执行滚动到底部失败：Message: javascript error: missing ) after argument list
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-25 21:22:27.527043
+getDriver~
+
+----------------------------
+2021-06-25 21:22:13.717866
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[19]/div-获取失败:Message: 
+
+
+----------------------------
+2021-06-25 21:21:58.436076
+driver执行滚动到底部失败：Message: javascript error: missing ) after argument list
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-25 21:21:58.408084
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[18]/div-获取失败:Message: 
+
+
+----------------------------
+2021-06-25 21:21:43.102279
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[17]/div-获取失败:Message: 
+
+
+----------------------------
+2021-06-25 21:21:27.819445
+driver执行滚动到底部失败：Message: javascript error: missing ) after argument list
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-25 21:21:27.791452
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[16]/div-获取失败:Message: 
+
+
+----------------------------
+2021-06-25 21:21:12.482599
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[15]/div-获取失败:Message: 
+
+
+----------------------------
+2021-06-25 21:20:57.188718
+driver执行滚动到底部失败：Message: javascript error: missing ) after argument list
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-25 21:20:57.162724
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[14]/div-获取失败:Message: 
+
+
+----------------------------
+2021-06-25 21:20:41.864814
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[13]/div-获取失败:Message: 
+
+
+----------------------------
+2021-06-25 21:20:26.544881
+driver执行滚动到底部失败：Message: javascript error: missing ) after argument list
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-25 21:20:26.518887
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[12]/div-获取失败:Message: 
+
+
+----------------------------
+2021-06-25 21:20:11.200922
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[11]/div-获取失败:Message: 
+
+
+----------------------------
+2021-06-25 21:19:55.904386
+driver执行滚动到底部失败：Message: javascript error: missing ) after argument list
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-25 21:19:55.872395
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[10]/div-获取失败:Message: 
+
+
+----------------------------
+2021-06-25 21:19:40.551964
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[9]/div-获取失败:Message: 
+
+
+----------------------------
+2021-06-25 21:19:25.218538
+driver执行滚动到底部失败：Message: javascript error: missing ) after argument list
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-25 21:19:25.191546
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[8]/div-获取失败:Message: 
+
+
+----------------------------
+2021-06-25 21:19:09.921099
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[7]/div-获取失败:Message: 
+
+
+----------------------------
+2021-06-25 21:18:54.600667
+driver执行滚动到底部失败：Message: javascript error: missing ) after argument list
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-25 21:18:54.572676
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[6]/div-获取失败:Message: 
+
+
+----------------------------
+2021-06-25 21:18:39.215252
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[5]/div-获取失败:Message: 
+
+
+----------------------------
+2021-06-25 21:12:59.493161
+getDriver~
+
+----------------------------

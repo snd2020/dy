@@ -1,0 +1,10 @@
+//此处的appkey换成自己的值
+local APPKEY = "6eacc574ae764e7a9529edcd72c31229";
+function switchIp(APPKEY)
+//防止出现没有bind成功的现象
+os.execute("ipclient "..APPKEY.." 1 bind");
+os.execute("ipclient "..APPKEY.." 1 change");
+os.execute("sleep 20");//拨号需要等待一段时间
+os.execute("ipclient "..APPKEY.." 1 bind");
+end
+switchIp(APPKEY)
