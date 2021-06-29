@@ -165,7 +165,7 @@ def do():
 
 	mysqlUtils.setLogFile(log_file)
 
-	url = "https://www.douyin.com/search/%E6%AC%A7%E6%B4%B2%E6%9D%AF%20%E4%BB%8A%E6%99%9A?publish_time=1&sort_type=1&source=search_history&type=video"
+	url = "https://www.douyin.com"
 	# url = "https://www.douyin.com"
 	#先打开网页
 	driver = getDriver(url)
@@ -192,12 +192,18 @@ def do():
 	# 记录一下当前handle(为了跳转回该页面做铺垫)
 	mainWindow = driver.current_window_handle
 
+	# 切换到最后一个句柄
+	windowsAll = driver.window_handles
+	# print("windowsAll"+str(windowsAll))
+	driver.switch_to.window(windowsAll[-1])
+	time.sleep(3)
+
 	for i in range(100):
 		i += 1 
 		#逐个点击视频
-
 		try:
-			element = '//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li['+str(i)+']/div'
+			element = '//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li['+str(i)+']'
+			# element = '//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li['+str(i)+']/div'
 			# element = '//*[@id="root"]/div/div[2]/div[2]/div[2]/ul/li['+str(i)+']/div/a[1]/div/div[1]/img'
 			video_block = getElementByXPath(driver,element)
 			video_block.click()
@@ -206,7 +212,6 @@ def do():
 			# 切换到最后一个句柄
 			windowsAll = driver.window_handles
 			# print("windowsAll"+str(windowsAll))
-
 			driver.switch_to.window(windowsAll[-1])
 			time.sleep(1)
 
@@ -221,9 +226,13 @@ def do():
 
 
 			driver.close()
-			time.sleep(1)
-			driver.switch_to.window(mainWindow)
-			time.sleep(1)
+			
+			# 切换到最后一个句柄
+			windowsAll = driver.window_handles
+			# print("windowsAll"+str(windowsAll))
+			driver.switch_to.window(windowsAll[-1])
+			time.sleep(3)
+
 		except Exception as e:
 			print("错误"+str(e))
 

@@ -9,6 +9,12 @@
 # }
 
 
-for i in range(8):
-  if i%2 == 0:
-    print(i)
+import random
+
+# for i in range(8):
+#   if i%2 == 0:
+#     print(i)
+
+
+random_t = random.randint(0,9)
+print(random_t)

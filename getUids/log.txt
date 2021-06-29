@@ -1,145 +1,1162 @@
-2021-06-25 21:29:50.183279
-getDriver~
-
-----------------------------
-2021-06-25 21:24:17.165192
-getDriver~
-
-----------------------------
-2021-06-25 21:23:02.358333
-driver执行滚动到底部失败：Message: javascript error: missing ) after argument list
+2021-06-29 19:54:13.443179
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
   (Session info: chrome=91.0.4472.114)
 
 
 ----------------------------
-2021-06-25 21:23:00.030984
-driver执行滚动到底部失败：Message: javascript error: missing ) after argument list
+2021-06-29 19:54:13.419186
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[100]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
   (Session info: chrome=91.0.4472.114)
 
 
 ----------------------------
-2021-06-25 21:22:27.527043
-getDriver~
-
-----------------------------
-2021-06-25 21:22:13.717866
-//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[19]/div-获取失败:Message: 
-
-
-----------------------------
-2021-06-25 21:21:58.436076
-driver执行滚动到底部失败：Message: javascript error: missing ) after argument list
+2021-06-29 19:54:13.394193
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[99]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
   (Session info: chrome=91.0.4472.114)
 
 
 ----------------------------
-2021-06-25 21:21:58.408084
-//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[18]/div-获取失败:Message: 
-
-
-----------------------------
-2021-06-25 21:21:43.102279
-//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[17]/div-获取失败:Message: 
-
-
-----------------------------
-2021-06-25 21:21:27.819445
-driver执行滚动到底部失败：Message: javascript error: missing ) after argument list
+2021-06-29 19:54:13.368201
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
   (Session info: chrome=91.0.4472.114)
 
 
 ----------------------------
-2021-06-25 21:21:27.791452
-//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[16]/div-获取失败:Message: 
-
-
-----------------------------
-2021-06-25 21:21:12.482599
-//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[15]/div-获取失败:Message: 
-
-
-----------------------------
-2021-06-25 21:20:57.188718
-driver执行滚动到底部失败：Message: javascript error: missing ) after argument list
+2021-06-29 19:54:13.342209
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[98]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
   (Session info: chrome=91.0.4472.114)
 
 
 ----------------------------
-2021-06-25 21:20:57.162724
-//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[14]/div-获取失败:Message: 
-
-
-----------------------------
-2021-06-25 21:20:41.864814
-//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[13]/div-获取失败:Message: 
-
-
-----------------------------
-2021-06-25 21:20:26.544881
-driver执行滚动到底部失败：Message: javascript error: missing ) after argument list
+2021-06-29 19:54:13.319216
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[97]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
   (Session info: chrome=91.0.4472.114)
 
 
 ----------------------------
-2021-06-25 21:20:26.518887
-//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[12]/div-获取失败:Message: 
-
-
-----------------------------
-2021-06-25 21:20:11.200922
-//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[11]/div-获取失败:Message: 
-
-
-----------------------------
-2021-06-25 21:19:55.904386
-driver执行滚动到底部失败：Message: javascript error: missing ) after argument list
+2021-06-29 19:54:13.297222
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
   (Session info: chrome=91.0.4472.114)
 
 
 ----------------------------
-2021-06-25 21:19:55.872395
-//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[10]/div-获取失败:Message: 
-
-
-----------------------------
-2021-06-25 21:19:40.551964
-//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[9]/div-获取失败:Message: 
-
-
-----------------------------
-2021-06-25 21:19:25.218538
-driver执行滚动到底部失败：Message: javascript error: missing ) after argument list
+2021-06-29 19:54:13.275229
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[96]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
   (Session info: chrome=91.0.4472.114)
 
 
 ----------------------------
-2021-06-25 21:19:25.191546
-//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[8]/div-获取失败:Message: 
-
-
-----------------------------
-2021-06-25 21:19:09.921099
-//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[7]/div-获取失败:Message: 
-
-
-----------------------------
-2021-06-25 21:18:54.600667
-driver执行滚动到底部失败：Message: javascript error: missing ) after argument list
+2021-06-29 19:54:13.252236
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[95]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
   (Session info: chrome=91.0.4472.114)
 
 
 ----------------------------
-2021-06-25 21:18:54.572676
-//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[6]/div-获取失败:Message: 
+2021-06-29 19:54:13.230243
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
 
 
 ----------------------------
-2021-06-25 21:18:39.215252
-//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[5]/div-获取失败:Message: 
+2021-06-29 19:54:13.208249
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[94]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
 
 
 ----------------------------
-2021-06-25 21:12:59.493161
-getDriver~
+2021-06-29 19:54:13.186256
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[93]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:13.163263
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:13.139270
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[92]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:13.116277
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[91]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:13.092284
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:13.070290
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[90]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:13.047297
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[89]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:13.025304
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:13.002311
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[88]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.980317
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[87]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.958324
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.935331
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[86]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.912337
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[85]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.890345
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.867351
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[84]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.845358
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[83]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.823364
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.804370
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[82]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.781377
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[81]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.759383
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.738389
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[80]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.716396
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[79]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.694403
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.672409
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[78]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.651415
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[77]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.629422
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.608428
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[76]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.586435
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[75]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.564442
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.541448
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[74]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.519455
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[73]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.498461
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.476468
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[72]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.454474
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[71]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.433481
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.410488
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[70]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.386495
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[69]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.362502
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.337510
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[68]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.314516
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[67]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.289524
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.265531
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[66]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.239539
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[65]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.215546
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.190554
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[64]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.166561
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[63]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.141569
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.119575
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[62]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.097582
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[61]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.075588
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.053595
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[60]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.030601
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[59]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:12.008608
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.985615
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[58]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.962622
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[57]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.941628
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.920634
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[56]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.899640
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[55]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.879646
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.855653
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[54]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.834660
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[53]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.813666
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.792672
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[52]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.771679
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[51]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.750685
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.729691
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[50]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.708698
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[49]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.688703
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.667710
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[48]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.647716
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[47]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.627722
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.606728
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[46]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.586734
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[45]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.566740
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.545746
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[44]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.525752
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[43]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.504758
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.484764
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[42]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.463771
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[41]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.441777
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.420783
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[40]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.398790
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[39]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.376797
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.348806
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[38]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.326812
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[37]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.305818
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.284824
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[36]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.262831
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[35]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.240839
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.214845
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[34]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.192852
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[33]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.169859
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.146865
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[32]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.125872
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[31]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.104878
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.083884
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[30]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.063890
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[29]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.042896
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:11.018904
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[28]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.996911
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[27]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.974917
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.951924
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[26]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.925932
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[25]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.900939
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.877946
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[24]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.853954
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[23]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.835959
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.812965
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[22]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.789972
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[21]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.767979
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.737988
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[20]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.714995
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[19]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.691002
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.668009
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[18]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.646016
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[17]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.623023
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.602029
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[16]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.581035
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[15]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.560042
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.535049
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[14]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.510056
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[13]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.486063
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.465069
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[12]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.443076
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[11]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.417083
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.395090
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[10]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.370099
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[9]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.349104
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.328111
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[8]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.305118
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[7]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.283124
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.263129
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[6]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.238137
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[5]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.215145
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.193152
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[4]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:10.190151
+//*[@id="root"]/div/div[2]/div/div[2]/div[2]/ul/li[3]-获取失败:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:08.168756
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:08.155760
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:08.143763
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:08.129767
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:08.114772
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:08.100776
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:08.085780
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:08.070785
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:08.058788
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:08.044793
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:08.032796
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:08.019800
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:08.007804
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:07.995808
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:07.983811
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:07.970815
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:07.958818
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:07.944822
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
+
+----------------------------
+2021-06-29 19:54:07.941824
+driver执行滚动到底部失败：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.114)
+
 
 ----------------------------
